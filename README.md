@@ -1,4 +1,4 @@
-RestaurantMenu App
+**RestaurantMenu App**
 
 A demo application that displays a restaurant’s menu — including burgers, drinks, and detailed product information.
 **(Note: The original API endpoint is currently inactive.)**
