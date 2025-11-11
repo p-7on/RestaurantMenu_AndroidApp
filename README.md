@@ -15,6 +15,7 @@ A demo application that displays a restaurant’s menu — including burgers, dr
 - Retrofit + Moshi + OkHttp – For REST API communication
 - MVVM Architecture – For clean separation of logic and UI
 - Jetpack Compose – For a fully declarative UI
+- State Management/State Handling – for reactive data handling and predictable UI updates
 
 
 📸📱 Screenshots
